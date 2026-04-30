@@ -91,14 +91,3 @@ This project is designed for learning and demonstrating algorithm design in C++.
 📜 License
 
 This project is open-source and free to use for educational purposes.
-
-
----
-
-If you want, I can also:
-
-Make it more minimal (GitHub-style short README)
-
-Add screenshots section
-
-Or tailor it for resume / portfolio
